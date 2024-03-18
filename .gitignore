@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs and runtime data
+logs/
+*.log
+npm-debug.log*
+
+# Ignore the .idea directory for JetBrains editors
+.idea/
+
+# Ignore files created by Visual Studio Code
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
